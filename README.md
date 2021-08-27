@@ -2,7 +2,7 @@
 
 It is a bacis project based on Html,Css and VanillaJs.
 
-![GitHub Logo](images\ss1.png)
+![GitHub Logo](https://github.com/uttams237/DrumKit-js-mini-project-/blob/main/images/ss1.png)
 <!-- Format: ![screenshot](url) -->
 
 One can play sound by tapping on drum PNGs or pressing key as specified on PNGs.
