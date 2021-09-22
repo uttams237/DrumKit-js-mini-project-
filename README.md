@@ -1,6 +1,7 @@
 # DRUM KIT
 
-It is a bacis project based on Html,Css and VanillaJs.
+It is a bacis project based on Html,Css and VanillaJs. </br>
+Project is live , [click me to check](https://uttams237.github.io/DrumKit-js-mini-project-/)
 
 ![GitHub Logo](https://github.com/uttams237/DrumKit-js-mini-project-/blob/main/images/ss1.png)
 <!-- Format: ![screenshot](url) -->
